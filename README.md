@@ -18,7 +18,7 @@ The project demonstrates **responsive design, an image carousel, and API integra
   - Smooth fade-in effect when switching.
 
 - **API Fetch Example**  
-  - Fetches a random joke from the [Official Joke API](https://official-joke-api.appspot.com/).  
+  - Fetches a random joke 
   - Displays the joke dynamically with proper error handling.
 
 ---
